@@ -1,0 +1,170 @@
+{
+  "intents": [
+    {
+      "tag": "greeting",
+      "patterns": [
+        "Hi",
+        "How are you?",
+        "Is anyone there?",
+        "Hello",
+        "Good day",
+        "What's up?",
+        "Hey",
+        "Greetings"
+      ],
+      "responses": [
+        "Hello!",
+        "Good to see you again!",
+        "Hi there, how can I help?"
+      ]
+    },
+    {
+      "tag": "goodbye",
+      "patterns": [
+        "See you later",
+        "Goodbye",
+        "I am leaving",
+        "Have a good day",
+        "Bye",
+        "See you"
+      ],
+      "responses": [
+        "Sad to see you go :(",
+        "Talk to you later",
+        "Goodbye!"
+      ]
+    },
+    {
+      "tag": "course_info",
+      "patterns": [
+        "Can you tell me about your courses?",
+        "What kind of courses do you offer?",
+        "Course information",
+        "Tell me about your course options"
+      ],
+      "responses": [
+        "Sure! We offer a wide range of courses in various subjects including technology, business, arts, and more. You can explore our course catalog on our website."
+      ]
+    },
+    {
+      "tag": "enrollment",
+      "patterns": [
+        "How can I enroll in a course?",
+        "Enrollment process",
+        "Can you help me enroll in a course?",
+        "How do I sign up?"
+      ],
+      "responses": [
+        "To enroll in a course, simply visit our website, browse through the available courses, and click on the 'Enroll Now' button for the course you're interested in. Follow the instructions to complete the enrollment process."
+      ]
+    },
+    {
+      "tag": "payment",
+      "patterns": [
+        "What are the payment options?",
+        "Payment methods",
+        "How do I pay for a course?",
+        "Is there a fee for the courses?"
+      ],
+      "responses": [
+        "We offer various payment options including credit/debit card, PayPal, and bank transfer. Some courses may have a fee while others might be free. You can find detailed payment information on the course page."
+      ]
+    },
+    {
+      "tag": "refund",
+      "patterns": [
+        "Can I get a refund if I'm not satisfied with the course?",
+        "Refund policy",
+        "What is your refund process?",
+        "How can I request a refund?"
+      ],
+      "responses": [
+        "We have a refund policy in place for cases where students are not satisfied with the course. You can request a refund within a certain period after enrolling in the course. Please refer to our refund policy page on our website for more details."
+      ]
+    },
+    {
+      "tag": "technical_support",
+      "patterns": [
+        "I'm having technical issues with the website",
+        "Technical support",
+        "Can you help me with a technical problem?",
+        "Who do I contact for technical assistance?"
+      ],
+      "responses": [
+        "If you're experiencing technical issues with our website, please reach out to our technical support team at support@website.com. They'll be happy to assist you with any problems you're encountering."
+      ]
+    },
+    {
+      "tag": "course_recommendation",
+      "patterns": [
+        "Can you recommend a course for me?",
+        "I'm not sure which course to take",
+        "What course would you suggest?",
+        "Can you help me choose a course?"
+      ],
+      "responses": [
+        "Of course! Could you please provide me with some information about your interests or the subject you're interested in learning?"
+      ]
+    },
+    {
+      "tag": "course_duration",
+      "patterns": [
+        "How long does the course last?",
+        "What is the duration of the course?",
+        "Is there a time limit for completing the course?",
+        "How much time do I have to complete the course?"
+      ],
+      "responses": [
+        "The duration of our courses varies depending on the subject and level. You can find the duration information on the course details page when you enroll."
+      ]
+    },
+    {
+      "tag": "certificate",
+      "patterns": [
+        "Do you provide certificates?",
+        "Is there a certificate upon completion?",
+        "Will I receive a certificate?",
+        "Are your courses certificate-based?"
+      ],
+      "responses": [
+        "Yes, upon successful completion of a course, you will receive a certificate. This certificate can be a valuable addition to your resume or LinkedIn profile."
+      ]
+    },
+    {
+      "tag": "course_schedule",
+      "patterns": [
+        "When does the course start?",
+        "What are the course start dates?",
+        "Can you provide me with the course schedule?",
+        "When is the next session?"
+      ],
+      "responses": [
+        "Course start dates vary depending on the course. You can check the course schedule on our website or contact our support team for more information."
+      ]
+    },
+    {
+      "tag": "prerequisites",
+      "patterns": [
+        "Are there any prerequisites for the course?",
+        "Do I need any prior knowledge or skills?",
+        "What are the requirements for enrolling in the course?",
+        "Is there anything I need to know before taking the course?"
+      ],
+      "responses": [
+        "Some of our courses may have prerequisites or recommended background knowledge. You can find information about prerequisites on the course details page."
+      ]
+    },
+    {
+      "tag": "career_outcome",
+      "patterns": [
+        "What are the career outcomes of the course?",
+        "How will this course help my career?",
+        "Can you tell me about job prospects after completing the course?",
+        "Will this course help me get a job?"
+      ],
+      "responses": [
+        "Our courses are designed to help you develop skills that are in demand in today's job market. Completing a course can enhance your career prospects and open up new opportunities."
+      ]
+    }
+  ]
+}
