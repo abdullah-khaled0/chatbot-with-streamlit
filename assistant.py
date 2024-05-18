@@ -13,8 +13,8 @@ from keras.layers import Dense, Dropout
 from keras.optimizers import SGD
 from keras.models import load_model
 
-# nltk.download('punkt')
-# nltk.download('wordnet')
+nltk.download('punkt')
+nltk.download('wordnet')
 
 class IAssistant(metaclass=ABCMeta):
 
