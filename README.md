@@ -96,7 +96,7 @@ Feel free to try any of these examples and see how the chatbot responds!
 
 
 ## Try the app
-[Streamlit App](https://reviews-sentiment-analysis.streamlit.app/)
+[Streamlit App](https://chatbot-for-courses-website.streamlit.app/)
 
 
 Thanks for your time ❤
